@@ -1,0 +1,4 @@
+c:\Users\jonathan\documents\visual studio 2015\Projects\Tracker.UI\Tracker.Logic\bin\Debug\Tracker.Logic.dll
+c:\Users\jonathan\documents\visual studio 2015\Projects\Tracker.UI\Tracker.Logic\bin\Debug\Tracker.Logic.pdb
+c:\Users\jonathan\documents\visual studio 2015\Projects\Tracker.UI\Tracker.Logic\obj\Debug\Tracker.Logic.dll
+c:\Users\jonathan\documents\visual studio 2015\Projects\Tracker.UI\Tracker.Logic\obj\Debug\Tracker.Logic.pdb
