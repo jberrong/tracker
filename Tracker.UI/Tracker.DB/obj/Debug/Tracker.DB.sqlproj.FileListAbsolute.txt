@@ -7,3 +7,8 @@ C:\Users\jonathan\documents\visual studio 2015\Projects\Tracker.UI\Tracker.DB\ob
 C:\Users\jonathan\documents\visual studio 2015\Projects\Tracker.UI\Tracker.DB\obj\Debug\refactor.xml
 C:\Users\jonathan\documents\visual studio 2015\Projects\Tracker.UI\Tracker.DB\obj\Debug\postdeploy.sql
 C:\Users\jonathan\documents\visual studio 2015\Projects\Tracker.UI\Tracker.DB\obj\Debug\predeploy.sql
+C:\Projects\Tracker.UI\Tracker.DB\bin\Debug\Tracker.DB.dacpac
+C:\Projects\Tracker.UI\Tracker.DB\bin\Debug\Tracker.DB.dll
+C:\Projects\Tracker.UI\Tracker.DB\bin\Debug\Tracker.DB.pdb
+C:\Projects\Tracker.UI\Tracker.DB\obj\Debug\Tracker.DB.dll
+C:\Projects\Tracker.UI\Tracker.DB\obj\Debug\Tracker.DB.pdb

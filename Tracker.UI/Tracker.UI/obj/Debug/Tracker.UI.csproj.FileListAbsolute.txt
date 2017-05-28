@@ -38,3 +38,43 @@ c:\users\jonathan\documents\visual studio 2015\Projects\Tracker.UI\Tracker.UI\bi
 c:\users\jonathan\documents\visual studio 2015\Projects\Tracker.UI\Tracker.UI\obj\Debug\Tracker.UI.csprojResolveAssemblyReference.cache
 c:\users\jonathan\documents\visual studio 2015\Projects\Tracker.UI\Tracker.UI\obj\Debug\Tracker.UI.dll
 c:\users\jonathan\documents\visual studio 2015\Projects\Tracker.UI\Tracker.UI\obj\Debug\Tracker.UI.pdb
+C:\Projects\Tracker.UI\Tracker.UI\bin\roslyn\csc.exe
+C:\Projects\Tracker.UI\Tracker.UI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Projects\Tracker.UI\Tracker.UI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Projects\Tracker.UI\Tracker.UI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Projects\Tracker.UI\Tracker.UI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Projects\Tracker.UI\Tracker.UI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Projects\Tracker.UI\Tracker.UI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Projects\Tracker.UI\Tracker.UI\bin\roslyn\System.Collections.Immutable.dll
+C:\Projects\Tracker.UI\Tracker.UI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Projects\Tracker.UI\Tracker.UI\bin\roslyn\vbc.exe
+C:\Projects\Tracker.UI\Tracker.UI\bin\roslyn\VBCSCompiler.exe
+C:\Projects\Tracker.UI\Tracker.UI\bin\roslyn\VBCSCompiler.exe.config
+C:\Projects\Tracker.UI\Tracker.UI\bin\Tracker.UI.dll.config
+C:\Projects\Tracker.UI\Tracker.UI\bin\Tracker.UI.dll
+C:\Projects\Tracker.UI\Tracker.UI\bin\Tracker.UI.pdb
+C:\Projects\Tracker.UI\Tracker.UI\bin\Antlr3.Runtime.dll
+C:\Projects\Tracker.UI\Tracker.UI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Projects\Tracker.UI\Tracker.UI\bin\Microsoft.Web.Infrastructure.dll
+C:\Projects\Tracker.UI\Tracker.UI\bin\Newtonsoft.Json.dll
+C:\Projects\Tracker.UI\Tracker.UI\bin\System.Web.Helpers.dll
+C:\Projects\Tracker.UI\Tracker.UI\bin\System.Web.Mvc.dll
+C:\Projects\Tracker.UI\Tracker.UI\bin\System.Web.Optimization.dll
+C:\Projects\Tracker.UI\Tracker.UI\bin\System.Web.Razor.dll
+C:\Projects\Tracker.UI\Tracker.UI\bin\System.Web.WebPages.Deployment.dll
+C:\Projects\Tracker.UI\Tracker.UI\bin\System.Web.WebPages.dll
+C:\Projects\Tracker.UI\Tracker.UI\bin\System.Web.WebPages.Razor.dll
+C:\Projects\Tracker.UI\Tracker.UI\bin\WebGrease.dll
+C:\Projects\Tracker.UI\Tracker.UI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Projects\Tracker.UI\Tracker.UI\bin\System.Web.Helpers.xml
+C:\Projects\Tracker.UI\Tracker.UI\bin\System.Web.Mvc.xml
+C:\Projects\Tracker.UI\Tracker.UI\bin\System.Web.Optimization.xml
+C:\Projects\Tracker.UI\Tracker.UI\bin\System.Web.Razor.xml
+C:\Projects\Tracker.UI\Tracker.UI\bin\System.Web.WebPages.xml
+C:\Projects\Tracker.UI\Tracker.UI\bin\System.Web.WebPages.Deployment.xml
+C:\Projects\Tracker.UI\Tracker.UI\bin\System.Web.WebPages.Razor.xml
+C:\Projects\Tracker.UI\Tracker.UI\bin\Antlr3.Runtime.pdb
+C:\Projects\Tracker.UI\Tracker.UI\bin\Newtonsoft.Json.xml
+C:\Projects\Tracker.UI\Tracker.UI\obj\Debug\Tracker.UI.csprojResolveAssemblyReference.cache
+C:\Projects\Tracker.UI\Tracker.UI\obj\Debug\Tracker.UI.dll
+C:\Projects\Tracker.UI\Tracker.UI\obj\Debug\Tracker.UI.pdb

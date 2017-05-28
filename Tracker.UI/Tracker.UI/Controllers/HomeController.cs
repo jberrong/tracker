@@ -26,5 +26,18 @@ namespace Tracker.UI.Controllers
 
             return View();
         }
+
+        public ActionResult HomePage()
+        {
+            return View();
+        }
+        public ActionResult Schedule()
+        {
+            return View();
+        }
+        public ActionResult PlanSchedule()
+        {
+            return View();
+        }
     }
 }
