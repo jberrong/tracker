@@ -75,6 +75,6 @@ C:\Projects\Tracker.UI\Tracker.UI\bin\System.Web.WebPages.Deployment.xml
 C:\Projects\Tracker.UI\Tracker.UI\bin\System.Web.WebPages.Razor.xml
 C:\Projects\Tracker.UI\Tracker.UI\bin\Antlr3.Runtime.pdb
 C:\Projects\Tracker.UI\Tracker.UI\bin\Newtonsoft.Json.xml
-C:\Projects\Tracker.UI\Tracker.UI\obj\Debug\Tracker.UI.csprojResolveAssemblyReference.cache
 C:\Projects\Tracker.UI\Tracker.UI\obj\Debug\Tracker.UI.dll
 C:\Projects\Tracker.UI\Tracker.UI\obj\Debug\Tracker.UI.pdb
+C:\Projects\Tracker.UI\Tracker.UI\obj\Debug\Tracker.UI.csprojResolveAssemblyReference.cache

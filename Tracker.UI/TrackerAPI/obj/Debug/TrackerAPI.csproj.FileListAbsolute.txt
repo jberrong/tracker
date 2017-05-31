@@ -51,6 +51,8 @@ C:\Projects\Tracker.UI\TrackerAPI\bin\Newtonsoft.Json.xml
 C:\Projects\Tracker.UI\TrackerAPI\bin\System.Net.Http.Formatting.xml
 C:\Projects\Tracker.UI\TrackerAPI\bin\System.Web.Http.xml
 C:\Projects\Tracker.UI\TrackerAPI\bin\System.Web.Http.WebHost.xml
-C:\Projects\Tracker.UI\TrackerAPI\obj\Debug\TrackerAPI.csprojResolveAssemblyReference.cache
 C:\Projects\Tracker.UI\TrackerAPI\obj\Debug\TrackerAPI.dll
 C:\Projects\Tracker.UI\TrackerAPI\obj\Debug\TrackerAPI.pdb
+C:\Projects\Tracker.UI\TrackerAPI\bin\Tracker.Logic.dll
+C:\Projects\Tracker.UI\TrackerAPI\bin\Tracker.Logic.pdb
+C:\Projects\Tracker.UI\TrackerAPI\obj\Debug\TrackerAPI.csprojResolveAssemblyReference.cache
